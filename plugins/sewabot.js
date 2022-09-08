@@ -1,32 +1,28 @@
 let handler = async m => m.reply(`
-*TOKO Aine*
-https://3c5.com/zO1RF
+━━━〔 ıll *HARGA* llı 〕━━ꕥ
 
-*[ LIST SEWA BOT ]*
+⬡ *DANA:* *Rp. 15.000 • PERMANEN*
+⬡ *GOPAY:* *Rp. 15.000 • PERMANEN*
+⬡ *PULSA:* *Rp. 20.000 • PERMANEN*
+⬡ *BISA GRATIS WAKTU SAMPAI 1 HARI*
+┗━━━━━━━━━━━━━━━ꕥ
+*[ Fitur ]*
+*> Add List Jualan kamu*
+*> Anti link*
+*> Welcome*
+*> Group*
+*> Anime*
+*> Stalking*
+*> Search*
+*> Convert*
+*> Image efek*
+*> Anime random*
+*> Nsfw*
+*> Game*
+Dan lain lain :v
 
-❐ > *Rp.10.000 GOPAY* • PERMANEN
-❐ > *Rp.10.000 DANA*• PERMANEN
-❐ > *Rp.15.000 PULSA*• PERMANEN
-*> UNTUK 1 GRUP*
-
-> Anti Link
-> Anti Virus/Virtex
-> Welcome
-> Anime img
-> Selebih nya liat *list menu bot*
-
-*YANG MAU SEWA CHAT AJA*
-｢ wa.me/628989513496 ｣
-
-*ITU YG DI BAWAH NO BOT NYA*
-[ > wa.me/628817206829 < ]
-
-[ > wa.me/6285778608414 < ]
-
-
-
-║▌║█║▌│║▌║▌█
-*｢ By Owner VINA ｣*
+*JIKA ANDA BERMINAT HUBUNGI NOMOR DI BAWAH !!*
+wa.me//628989513496
 `.trim())// Tambah sendiri kalo mau
 handler.help = ['sewa']
 handler.tags = ['main']
