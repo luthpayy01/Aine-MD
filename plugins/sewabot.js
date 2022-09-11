@@ -1,9 +1,9 @@
 let handler = async m => m.reply(`
 ━━━〔 ıll *HARGA* llı 〕━━ꕥ
 
-⬡ *DANA:* *Rp. 15.000 • PERMANEN*
-⬡ *GOPAY:* *Rp. 15.000 • PERMANEN*
-⬡ *PULSA:* *Rp. 20.000 • PERMANEN*
+⬡ *DANA:* *Rp. 10.000 • PERMANEN*
+⬡ *GOPAY:* *Rp. 10.000 • PERMANEN*
+⬡ *PULSA:* *Rp. 15.000 • PERMANEN*
 ⬡ *BISA GRATIS WAKTU SAMPAI 1 HARI*
 ┗━━━━━━━━━━━━━━━ꕥ
 *[ Fitur ]*
