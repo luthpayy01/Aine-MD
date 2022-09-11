@@ -159,7 +159,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    conn.sendButton(m.chat, text.trim(), '🚫NO TELPON BOT', null, [['【 DONASI KAK 人々の寄付 😊 】', '.donasi'],['【 SEWA BOT 高価トを購入🤖 】', '.sewa'],['【 OWNER BOT ボット所有者♥️ 】', '.owner']], m)
+    conn.sendButton(m.chat, text.trim(), '🚫JANGAN SPAM BOT', null, [['【 GROUP AINE 人々の寄付 】', '.donasi'],['【 SEWA BOT 高価トを購入🤖 】', '.sewa'],['【 OWNER BOT ボット所有者♥️ 】', '.owner']], m)
     /*conn.sendHydrated(m.chat, text.trim(), 'Ⓟ premium | Ⓛ limit', null, 'https://aiinne.github.io/', 'Website', '', '', [
       ['Donate', '/donasi'],
       ['Sewa Bot', '/sewa'],
